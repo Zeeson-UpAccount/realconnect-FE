@@ -20,7 +20,7 @@ export default function UserNavbar() {
                     src={avatar}
                     alt="user pic"
                   />
-                  Damilola Phillips
+                  User Nelson
                 </span>
               }
               id="collasible-nav-dropdown"

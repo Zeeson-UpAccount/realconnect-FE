@@ -13,6 +13,7 @@ function App() {
           <Col lg="12">
             <Router>
               <Switch>
+                <Route path="/" exact component={UserDashboard} />
                 <Route path="/dashboard" exact component={UserDashboard} />
               </Switch>
             </Router>
